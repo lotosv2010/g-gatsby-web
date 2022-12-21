@@ -1,0 +1,5 @@
+export const LOGIN = "LOGIN"
+export const LOGINSUCCESS = "LOGINSUCCESS"
+export const LOGINFAILED= "LOGINFAILED"
+export const LOADUSER = "LOADUSER"
+export const LOADUSERSUCCESS= "LOADUSERSUCCESS"

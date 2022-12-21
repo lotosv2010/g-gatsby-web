@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-source-articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gatsby-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby-awesome-pagination": "^0.3.8",
+    "gatsby-node-helpers": "^1.2.1"
+  }
+}
